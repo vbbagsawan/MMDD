@@ -8,7 +8,7 @@
         }
         header {
             position: relative;
-            background-image: url('../assets/img/hero-img.png'); /* Replace with a wooden texture image */
+            background-image: url('assets/img/hero-img.png'); /* Replace with a wooden texture image */
             background-size: cover;
             background-position: center;
             color: white;
